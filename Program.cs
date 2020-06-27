@@ -6,7 +6,7 @@ namespace calculator
     {
         static void Main(string[] args)
         {
-            Console.WriteLine("Hi, Aman!");
+            Console.WriteLine("Hello World!");
         }
     }
 }
