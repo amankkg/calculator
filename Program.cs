@@ -6,8 +6,7 @@ namespace calculator
     {
         static void Main(string[] args)
         {
-            Console.WriteLine("Hello World!");
-            Console.WriteLine("Hello GitHub!");
+            Console.WriteLine("Hello Git Branching!");
         }
     }
 }
